@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "icomoon";
+  src: url("./fonts/icomoon.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/icomoon.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/icomoon.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/icomoon.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/icomoon.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/icomoon.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/icomoon.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
